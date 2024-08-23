@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+    // Your code here!
+    int a,b;
+    cout << "Nhap a: "; cin >> a;
+    cout << "Nhap b: "; cin >> b;
+    cout << "Tong a va b la: " << a+b;
+    
+    
+    return 1;
+    
+}
